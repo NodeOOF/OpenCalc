@@ -27,7 +27,7 @@
 
 
 
-<a href="https://github.com/Darkempire78/OpenCalc/releases/latest">
+<a href="https://github.com/NodeOOF/OpenCalc/releases/tag/v1">
   <img alt="دریافت از گیت‌هاب" src="https://raw.githubusercontent.com/deckerst/common/main/assets/get-it-on-github.png" height="80">
 </a>
 
@@ -62,19 +62,13 @@
 
 ## ☕ حمایت از پروژه
 
-با اهدای کمک مالی می‌توانید از توسعه OpenCalc حمایت کنید.
+با اهدای کمک مالی می‌توانید از توسعه nodeoof حمایت کنید.
 
 از حمایت و همراهی شما صمیمانه سپاسگزاریم! ❤️
 
 [<img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="حمایت مالی از طریق GitHub Sponsors" height="40">](https://github.com/sponsors/Darkempire78)
 [<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="پرداخت از طریق PayPal" height="40">](https://paypal.me/ImDarkempire)
 [<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="حمایت از طریق Buy Me a Coffee" height="40">](https://www.buymeacoffee.com/darkempire78)
-
-## 💬 دیسکورد
-
-به سرور دیسکورد ما بپیوندید!
-
-[![سرور دیسکورد](https://i.imgur.com/UfyvtOL.png)](https://discord.gg/sPvJmY7mcV)
 
 ## 🔨 مشارکت در توسعه
 
