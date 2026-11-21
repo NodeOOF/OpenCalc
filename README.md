@@ -8,21 +8,6 @@
 
 #### بیش از ۳۰۰ هزار بار دانلود شده است.
 
-<a href="https://github.com/NodeOOF/OpenCalc/releases/latest">
-  <img alt="آخرین نسخه منتشرشده" src="https://img.shields.io/github/v/release/NodeOOF/OpenCalc.svg?logo=github&style=for-the-badge">
-</a>
-<a href="https://shields.rbtlog.dev/com.darkempire78.opencalculator">
-  <img alt="وضعیت RB" src="https://shields.rbtlog.dev/simple/com.darkempire78.opencalculator?style=for-the-badge">
-</a>
-<a href="https://github.com/NodeOOF/OpenCalc/releases">
-  <img alt="تعداد دانلودها" src="https://img.shields.io/github/downloads/NodeOOF/OpenCalc/total?color=blue&label=downloads&style=for-the-badge">
-</a>
-<a href="LICENSE">
-  <img alt="مجوز GPL v3" src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge">
-</a>
-
-<br>
-
 <a href="https://github.com/NodeOOF/OpenCalc/releases/tag/v1">
   <img alt="دریافت از گیت‌هاب" src="https://raw.githubusercontent.com/deckerst/common/main/assets/get-it-on-github.png" height="80">
 </a>
