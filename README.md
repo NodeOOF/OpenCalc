@@ -1,124 +1,115 @@
-<div align="center">
+ <div align="center">
 
 <img width="200" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" alt="OpenCalc" align="center">
 
 # OpenCalc
 
-### A simple and beautiful calculator for Android.
-#### Downloaded more than 300 000 times.
+### یک ماشین‌حساب ساده و زیبا برای اندروید
+
+#### بیش از ۳۰۰ هزار بار دانلود شده است.
 
 <a href="https://github.com/Darkempire78/OpenCalc/releases/latest">
-      <img alt="Latest release" src="https://img.shields.io/github/v/release/Darkempire78/OpenCalc.svg?logo=github&style=for-the-badge">
+  <img alt="آخرین نسخه منتشرشده" src="https://img.shields.io/github/v/release/Darkempire78/OpenCalc.svg?logo=github&style=for-the-badge">
 </a>
 <a href="https://shields.rbtlog.dev/com.darkempire78.opencalculator">
-      <img alt="RB Status" src="https://shields.rbtlog.dev/simple/com.darkempire78.opencalculator?style=for-the-badge">
+  <img alt="وضعیت RB" src="https://shields.rbtlog.dev/simple/com.darkempire78.opencalculator?style=for-the-badge">
 </a>
 <a href="https://github.com/Darkempire78/OpenCalc/releases">
-      <img alt="Releases" src="https://img.shields.io/github/downloads/Darkempire78/OpenCalc/total?color=blue&label=downloads&style=for-the-badge">
+  <img alt="تعداد دانلودها" src="https://img.shields.io/github/downloads/Darkempire78/OpenCalc/total?color=blue&label=downloads&style=for-the-badge">
 </a>
 <a href="LICENSE">
-      <img alt="License: GPL v3" src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge">
+  <img alt="مجوز GPL v3" src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge">
 </a>
-<a href="https://discord.com/invite/sPvJmY7mcV">
-      <img alt="Discord" src="https://img.shields.io/discord/831524351311609907?color=%237289DA&label=DISCORD&style=for-the-badge">
 </a>
 
 <br>
 
-<a href="https://play.google.com/store/apps/details?id=com.darkempire78.opencalculator">
-      <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="80">
-</a>
-<a href="https://f-droid.org/en/packages/com.darkempire78.opencalculator">
-      <img alt="Get it on F-Droid" src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="80">
-</a>
-<a href="https://apt.izzysoft.de/packages/com.darkempire78.opencalculator">
-      <img alt="Get it on IzzyOnDroid" src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" height="80">
-</a>
+
+
+
 <a href="https://github.com/Darkempire78/OpenCalc/releases/latest">
-      <img alt="Get it on GitHub" src="https://raw.githubusercontent.com/deckerst/common/main/assets/get-it-on-github.png" height="80">
-</a>
-
-<br>
-
-<div align="left">
-
-## 📖 Features
-
-* Lightweight (APK ~2MB)
-* No unnecessary permissions
-* Dark, Light, Amoled and Material You theme
-* Scientific mode
-* History
-* Portrait and landscape orientation
-* Quick settings tile
-* Available on locked screen
-* More...
-
-## ⚠️ Requirements
-
-* Android 5.0+
-
-## 📷 Screenshots
-
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Light Theme 1.png" width="15%"/>
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Light Theme 2.png" width="15%"/>
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Dark Theme 1.png" width="15%"/>
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Dark Theme 2.png" width="15%"/>
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Amoled Theme 1.png" width="15%"/>
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Amoled Theme 2.png" width="15%"/>
-
-## ☕ Support
-
-Support OpenCalc development by donating money. Thank you very much for your help! ❤️
-
-[<img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA"
-alt="Sponsor the project on GitHub"
-height="40">](https://github.com/sponsors/Darkempire78) [<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"
-alt="Donate with PayPal"
-height="40">](https://paypal.me/ImDarkempire) [<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
-alt="Donate with buymeacoffee"
-height="40">](https://www.buymeacoffee.com/darkempire78)
-
-## 💬 Discord
-
-Join the Discord server!
-
-[![](https://i.imgur.com/UfyvtOL.png)](https://discord.gg/sPvJmY7mcV)
-
-## 🔨 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## 🌎 Translations
-
-You can help translate OpenCalc on [Hosted Weblate](https://hosted.weblate.org/engage/opencalc/).
-
-<h3>Translation status</h3>
-<br>
-<a href="https://hosted.weblate.org/engage/opencalc/">
-      <img src="https://hosted.weblate.org/widget/opencalc/horizontal-auto.svg" alt="Translation status" />
-</a>
-
-## 📜 License
-
-This project is licensed under [GPLv3](/LICENSE)
-
-## ❔ Most Asked Questions
-
-### Why OpenCalc has it's own algebra system and doesn't use already existing algebra system like mXparser?
-
-OpenCalc doesn't use mXparser anymore since the v2.0.0 for two main reasons:
-
-1. reason is that it allows much more freedom and flexibility. mXparser has many known problems, either with accuracy or with features not present. Creating your own implementation allows you to control everything.
-2. reason is that it's lighter to use your own implementation (mXparser has around 3 times bigger size than OpenCalc).
-
-
-## 🫶 Contributors
-
-<a href="https://github.com/Darkempire78/OpenCalc/graphs/contributors">
-  <img alt="List of contributors to this repository" src="https://contrib.rocks/image?repo=Darkempire78/OpenCalc" />
+  <img alt="دریافت از گیت‌هاب" src="https://raw.githubusercontent.com/deckerst/common/main/assets/get-it-on-github.png" height="80">
 </a>
 
 </div>
+
+---
+
+## 📖 امکانات
+
+- حجم کم و سبک (فایل APK حدود ۲ مگابایت)
+- بدون درخواست مجوزهای دسترسی غیرضروری
+- پشتیبانی از پوسته‌های تاریک، روشن، AMOLED و Material You
+- حالت ماشین‌حساب علمی
+- تاریخچه محاسبات
+- پشتیبانی از حالت عمودی و افقی
+- دسترسی از طریق کاشی تنظیمات سریع (Quick Settings Tile)
+- امکان استفاده حتی در صفحه قفل
+- و امکانات بیشتر...
+
+## ⚠️ پیش‌نیازها
+
+- اندروید نسخه ۵.۰ یا بالاتر
+
+## 📷 تصاویر برنامه
+
+<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Light Theme 1.png" width="15%" alt="پوسته روشن - تصویر اول"/>
+<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Light Theme 2.png" width="15%" alt="پوسته روشن - تصویر دوم"/>
+<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Dark Theme 1.png" width="15%" alt="پوسته تاریک - تصویر اول"/>
+<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Dark Theme 2.png" width="15%" alt="پوسته تاریک - تصویر دوم"/>
+<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Amoled Theme 1.png" width="15%" alt="پوسته AMOLED - تصویر اول"/>
+<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/Amoled Theme 2.png" width="15%" alt="پوسته AMOLED - تصویر دوم"/>
+
+## ☕ حمایت از پروژه
+
+با اهدای کمک مالی می‌توانید از توسعه OpenCalc حمایت کنید.
+
+از حمایت و همراهی شما صمیمانه سپاسگزاریم! ❤️
+
+[<img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="حمایت مالی از طریق GitHub Sponsors" height="40">](https://github.com/sponsors/Darkempire78)
+[<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="پرداخت از طریق PayPal" height="40">](https://paypal.me/ImDarkempire)
+[<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="حمایت از طریق Buy Me a Coffee" height="40">](https://www.buymeacoffee.com/darkempire78)
+
+## 💬 دیسکورد
+
+به سرور دیسکورد ما بپیوندید!
+
+[![سرور دیسکورد](https://i.imgur.com/UfyvtOL.png)](https://discord.gg/sPvJmY7mcV)
+
+## 🔨 مشارکت در توسعه
+
+ارسال درخواست‌های Pull Request مورد استقبال قرار می‌گیرد.
+
+اگر قصد ایجاد تغییرات اساسی در پروژه را دارید، لطفاً ابتدا یک Issue ایجاد کنید تا درباره تغییرات پیشنهادی گفتگو کنیم.
+
+همچنین لطفاً مطمئن شوید که تست‌های مربوطه را متناسب با تغییرات انجام‌شده به‌روزرسانی کرده‌اید.
+
+## 🌎 ترجمه‌ها
+
+شما می‌توانید از طریق پلتفرم [Hosted Weblate](https://hosted.weblate.org/engage/opencalc/) در ترجمه OpenCalc مشارکت کنید.
+
+### وضعیت ترجمه‌ها
+
+<br>
+
+<a href="https://hosted.weblate.org/engage/opencalc/">
+  <img src="https://hosted.weblate.org/widget/opencalc/horizontal-auto.svg" alt="وضعیت ترجمه‌های پروژه"/>
+</a>
+
+## 📜 مجوز استفاده
+
+این پروژه تحت مجوز متن‌باز [GPLv3](LICENSE) منتشر شده است.
+
+## ❔ پرسش‌های متداول
+
+### چرا OpenCalc از سیستم جبری اختصاصی خودش استفاده می‌کند و از سیستم‌های آماده‌ای مانند mXparser استفاده نمی‌کند؟
+
+پروژه OpenCalc از نسخه 2.0.0 به بعد دیگر از mXparser استفاده نمی‌کند. این تصمیم به دو دلیل اصلی گرفته شده است:
+
+**۱. آزادی عمل و انعطاف‌پذیری بیشتر**
+
+استفاده از سیستم محاسباتی اختصاصی امکان کنترل کامل بر قابلیت‌ها و نحوه عملکرد آن را فراهم می‌کند. mXparser دارای برخی مشکلات شناخته‌شده، از جمله در زمینه دقت محاسبات و محدودیت در قابلیت‌ها است. توسعه یک پیاده‌سازی اختصاصی این امکان را فراهم می‌کند که تمام جزئیات مطابق نیازهای پروژه کنترل شوند.
+
+**۲. کاهش حجم برنامه**
+
+استفاده از سیستم محاسباتی اختصاصی باعث سبک‌تر شدن برنامه می‌شود؛ چراکه حجم mXparser تقریباً سه برابر بیشتر از پیاده‌سازی اختصاصی OpenCalc است.
