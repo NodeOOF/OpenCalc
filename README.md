@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="200" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" alt="OpenCalc" align="center">
+<img width="200" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" alt="OpenCalc">
 
 # OpenCalc
 
@@ -8,24 +8,20 @@
 
 #### بیش از ۳۰۰ هزار بار دانلود شده است.
 
-<a href="https://github.com/Darkempire78/OpenCalc/releases/latest">
-  <img alt="آخرین نسخه منتشرشده" src="https://img.shields.io/github/v/release/Darkempire78/OpenCalc.svg?logo=github&style=for-the-badge">
+<a href="https://github.com/NodeOOF/OpenCalc/releases/latest">
+  <img alt="آخرین نسخه منتشرشده" src="https://img.shields.io/github/v/release/NodeOOF/OpenCalc.svg?logo=github&style=for-the-badge">
 </a>
 <a href="https://shields.rbtlog.dev/com.darkempire78.opencalculator">
   <img alt="وضعیت RB" src="https://shields.rbtlog.dev/simple/com.darkempire78.opencalculator?style=for-the-badge">
 </a>
-<a href="https://github.com/Darkempire78/OpenCalc/releases">
-  <img alt="تعداد دانلودها" src="https://img.shields.io/github/downloads/Darkempire78/OpenCalc/total?color=blue&label=downloads&style=for-the-badge">
+<a href="https://github.com/NodeOOF/OpenCalc/releases">
+  <img alt="تعداد دانلودها" src="https://img.shields.io/github/downloads/NodeOOF/OpenCalc/total?color=blue&label=downloads&style=for-the-badge">
 </a>
 <a href="LICENSE">
   <img alt="مجوز GPL v3" src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge">
 </a>
-</a>
 
 <br>
-
-
-
 
 <a href="https://github.com/NodeOOF/OpenCalc/releases/tag/v1">
   <img alt="دریافت از گیت‌هاب" src="https://raw.githubusercontent.com/deckerst/common/main/assets/get-it-on-github.png" height="80">
@@ -62,13 +58,9 @@
 
 ## ☕ حمایت از پروژه
 
-با اهدای کمک مالی می‌توانید از توسعه nodeoof حمایت کنید.
+با حمایت و مشارکت خود می‌توانید به توسعه و بهبود OpenCalc کمک کنید.
 
-از حمایت و همراهی شما صمیمانه سپاسگزاریم! ❤️
-
-[<img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="حمایت مالی از طریق GitHub Sponsors" height="40">](https://github.com/sponsors/Darkempire78)
-[<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="پرداخت از طریق PayPal" height="40">](https://paypal.me/ImDarkempire)
-[<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="حمایت از طریق Buy Me a Coffee" height="40">](https://www.buymeacoffee.com/darkempire78)
+از همراهی و حمایت شما صمیمانه سپاسگزاریم! ❤️
 
 ## 🔨 مشارکت در توسعه
 
@@ -107,3 +99,4 @@
 **۲. کاهش حجم برنامه**
 
 استفاده از سیستم محاسباتی اختصاصی باعث سبک‌تر شدن برنامه می‌شود؛ چراکه حجم mXparser تقریباً سه برابر بیشتر از پیاده‌سازی اختصاصی OpenCalc است.
+
